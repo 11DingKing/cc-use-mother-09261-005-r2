@@ -1,6 +1,10 @@
 .env
 *.key
 *.pem
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
 node_modules/
 .venv/
 venv/
